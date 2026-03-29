@@ -1,0 +1,103 @@
+{
+  "eyebrow": "Managed Infrastructure",
+  "titleBeforeAccent": "Deployments &",
+  "titleAccent": "Managed Solutions",
+  "subtitle": "Ready-to-deploy platforms and managed tooling — keeping your systems secure, observable, and operational.",
+  "items": [
+    {
+      "icon": "FaChartBar",
+      "title": "SIEM - Log & Security Monitoring",
+      "desc": "Monitor logs and detect security threats in real-time for enterprise-grade protection."
+    },
+    {
+      "icon": "FaClock",
+      "title": "Uptime, Service & Website Monitoring",
+      "desc": "Ensure your critical services and websites are always available and performing optimally."
+    },
+    {
+      "icon": "FaNetworkWired",
+      "title": "Network & System Performance Monitoring",
+      "desc": "Track network and system health to prevent bottlenecks and downtime."
+    },
+    {
+      "icon": "FaChartLine",
+      "title": "Web Traffic Log Analyzer",
+      "desc": "Analyze user traffic and trends to optimize website performance and engagement."
+    },
+    {
+      "icon": "FaBox",
+      "title": "Container Management",
+      "desc": "Simplify deployment and orchestration of containerized applications for scalability."
+    },
+    {
+      "icon": "FaLock",
+      "title": "Reverse Proxy & SSL Management",
+      "desc": "Secure and accelerate your web applications with proper SSL and proxy setups."
+    },
+    {
+      "icon": "RiDashboard3Fill",
+      "title": "Dashboards & Portals",
+      "desc": "Centralized dashboards to visualize key metrics and manage resources efficiently."
+    },
+    {
+      "icon": "FaWifi",
+      "title": "Internet Bandwidth Tracker",
+      "desc": "Monitor internet usage and bandwidth to optimize connectivity and performance."
+    },
+    {
+      "icon": "FaKey",
+      "title": "Password Manager",
+      "desc": "Securely manage credentials and access for teams with ease and safety."
+    },
+    {
+      "icon": "FaFilePdf",
+      "title": "PDF Management",
+      "desc": "Organize, edit, and secure your PDF documents efficiently."
+    },
+    {
+      "icon": "FaFolderOpen",
+      "title": "Document Management System",
+      "desc": "Store, track, and manage all your business documents in one place."
+    },
+    {
+      "icon": "FaComments",
+      "title": "Team Collaboration & Chat",
+      "desc": "Seamless communication and collaboration across teams for faster decision-making."
+    },
+    {
+      "icon": "FaTasks",
+      "title": "Project & Task Management",
+      "desc": "Plan, track, and manage projects and tasks effectively to meet deadlines."
+    },
+    {
+      "icon": "FaNoteSticky",
+      "title": "Note-Taking & To-Do Management",
+      "desc": "Capture ideas and manage tasks efficiently for better productivity."
+    },
+    {
+      "icon": "FaGraduationCap",
+      "title": "Learning Management System",
+      "desc": "Deliver training and track learning progress across your organization."
+    },
+    {
+      "icon": "FaDesktop",
+      "title": "Remote Desktop Tool",
+      "desc": "Access and manage desktops remotely for support and collaboration."
+    },
+    {
+      "icon": "FaCloud",
+      "title": "Cloud Storage & Team Collaboration",
+      "desc": "Secure cloud storage with integrated team collaboration tools."
+    },
+    {
+      "icon": "FaCodeBranch",
+      "title": "Version Control & CI/CD",
+      "desc": "Manage code versions and automate deployments for development efficiency."
+    },
+    {
+      "icon": "FaUsers",
+      "title": "HR Management System",
+      "desc": "Streamline HR processes from recruitment to employee management."
+    }
+  ]
+}

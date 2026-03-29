@@ -1,0 +1,52 @@
+{
+  "eyebrow": "Core Capabilities",
+  "title": "What We Do",
+  "subtitle": "Six disciplines. One mission: make you harder to compromise.",
+  "footerPrompt": "Need something custom?",
+  "footerCtaLabel": "Discuss your threat profile →",
+  "footerCtaHref": "/#contact",
+  "items": [
+    {
+      "id": "01",
+      "icon": "FaSearch",
+      "title": "Security Assessment & Penetration Testing",
+      "desc": "Simulated adversary operations exposing vulnerabilities across web, mobile, API, and network layers before real attackers do.",
+      "tags": ["Red Team", "VAPT", "OWASP"]
+    },
+    {
+      "id": "02",
+      "icon": "GrShieldSecurity",
+      "title": "Security Operations & Hardening",
+      "desc": "SIEM deployment, endpoint hardening, access control, and incident response frameworks that keep your perimeter solid.",
+      "tags": ["SIEM", "SOC", "IR"]
+    },
+    {
+      "id": "03",
+      "icon": "MdSecurity",
+      "title": "GRC & ISO 27001 Compliance",
+      "desc": "End-to-end governance, risk, and compliance implementation including audit readiness, policy development, and regulatory alignment.",
+      "tags": ["ISO 27001", "NRB", "GDPR"]
+    },
+    {
+      "id": "04",
+      "icon": "FaBrain",
+      "title": "Awareness & Skill Development",
+      "desc": "Phishing simulations, tabletop exercises, and security culture programs that turn your people into a human firewall.",
+      "tags": ["Phishing Sim", "Training", "Tabletop"]
+    },
+    {
+      "id": "05",
+      "icon": "FaNetworkWired",
+      "title": "Network & Infrastructure Security",
+      "desc": "Secure network design, Zero Trust architecture, and hardened infrastructure built for resilience and scale.",
+      "tags": ["Zero Trust", "Firewall", "VPN"]
+    },
+    {
+      "id": "06",
+      "icon": "FaShieldAlt",
+      "title": "Digital Forensics & Incident Response",
+      "desc": "Rapid containment, root-cause investigation, and evidence preservation for breaches and security incidents.",
+      "tags": ["DFIR", "Forensics", "Eradication"]
+    }
+  ]
+}
