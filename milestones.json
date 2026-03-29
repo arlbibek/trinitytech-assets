@@ -31,13 +31,5 @@
     "category": "Achievement",
     "galleryImagePrefix": "2026-03-21_owasp_ktm_0x08",
     "showOnAbout": true
-  },
-  {
-    "date": "2026-04-21",
-    "displayDate": "Apr 21",
-    "title": "Plankton 1.0 Release",
-    "description": "Plankton are the diverse collection of organisms found in water that are unable to propel themselves against a current. The individual organisms constituting plankton are called plankters. In the ocean, they provide a crucial source of food to many small and large aquatic organisms, such as bivalves, fish and whales. ",
-    "category": "Achievement",
-    "showOnAbout": true
   }
 ]
