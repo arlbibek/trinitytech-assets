@@ -13,7 +13,7 @@
     "title": "U.S. Startup Weekend Challenge",
     "description": "3-day intensive startup sprint.",
     "category": "Event",
-    "showOnAbout": true
+    "showOnAbout": false
   },
   {
     "date": "2026-02-25",
