@@ -16,6 +16,14 @@
     "showOnAbout": false
   },
   {
+    "date": "2026-02-14",
+    "displayDate": "Feb 14",
+    "title": "Capture the Flag (CTF) Event",
+    "description": "Organized a cybersecurity CTF event for local students and professionals.",
+    "category": "Event",
+    "showOnAbout": true
+  },
+  {
     "date": "2026-02-25",
     "displayDate": "Feb 25",
     "title": "Cybersecurity Awareness Training",
@@ -30,6 +38,14 @@
     "description": "Sponsored and participated.",
     "category": "Achievement",
     "galleryImagePrefix": "2026-03-21_owasp_ktm_0x08",
+    "showOnAbout": true
+  },
+  {
+    "date": "2026-05-09",
+    "displayDate": "May 9",
+    "title": "[UPCOMING] Live Hacking Session",
+    "description": "Join us for an interactive live hacking session where we demonstrate real-world attack techniques and defenses.",
+    "category": "Event",
     "showOnAbout": true
   }
 ]
