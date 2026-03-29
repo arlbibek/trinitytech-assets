@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2025-11-20",
+    "displayDate": "Nov 20",
+    "title": "Company Registered",
+    "description": "Trinity Technology Pvt. Ltd. registered with the Office of the Company Registrar (OCR), Nepal.",
+    "category": "Registration",
+    "showOnAbout": true
+  },
+  {
+    "date": "2026-02-19",
+    "displayDate": "Feb 19-21",
+    "title": "U.S. Startup Weekend Challenge",
+    "description": "3-day intensive startup sprint.",
+    "category": "Event",
+    "showOnAbout": true
+  },
+  {
+    "date": "2026-02-25",
+    "displayDate": "Feb 25",
+    "title": "Cybersecurity Awareness Training",
+    "description": "Conducted for 3 different schools.",
+    "category": "Community",
+    "showOnAbout": false
+  },
+  {
+    "date": "2026-03-21",
+    "displayDate": "Mar 21",
+    "title": "OWASP Kathmandu Meetup - 0x08",
+    "description": "Sponsored and participated.",
+    "category": "Achievement",
+    "galleryImagePrefix": "2026-03-21_owasp_ktm_0x08",
+    "showOnAbout": true
+  }
+]
