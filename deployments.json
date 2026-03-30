@@ -6,98 +6,98 @@
   "items": [
     {
       "icon": "FaChartBar",
-      "title": "SIEM - Log & Security Monitoring",
-      "desc": "Monitor logs and detect security threats in real-time for enterprise-grade protection."
+      "title": "SIEM & Security Observability",
+      "desc": "Consolidated log management and real-time threat detection for enterprise-grade perimeter and internal protection."
     },
     {
       "icon": "FaClock",
-      "title": "Uptime, Service & Website Monitoring",
-      "desc": "Ensure your critical services and websites are always available and performing optimally."
+      "title": "Continuous Availability Monitoring",
+      "desc": "Proactive monitoring of critical services and web assets to ensure zero-downtime performance."
     },
     {
       "icon": "FaNetworkWired",
-      "title": "Network & System Performance Monitoring",
-      "desc": "Track network and system health to prevent bottlenecks and downtime."
+      "title": "Network & System Performance",
+      "desc": "Deep-packet inspection and health tracking to eliminate bottlenecks and optimize infrastructure resilience."
     },
     {
       "icon": "FaChartLine",
-      "title": "Web Traffic Log Analyzer",
-      "desc": "Analyze user traffic and trends to optimize website performance and engagement."
+      "title": "Web Traffic & Logic Analytics",
+      "desc": "Granular analysis of user traffic and trends to optimize performance and identify anomalous behavior."
     },
     {
       "icon": "FaBox",
-      "title": "Container Management",
-      "desc": "Simplify deployment and orchestration of containerized applications for scalability."
+      "title": "Container Orchestration",
+      "desc": "Automated deployment and management of containerized environments built for high-scale elasticity."
     },
     {
       "icon": "FaLock",
-      "title": "Reverse Proxy & SSL Management",
-      "desc": "Secure and accelerate your web applications with proper SSL and proxy setups."
+      "title": "Secure Edge & SSL Governance",
+      "desc": "Centralized reverse proxy and SSL lifecycle management to secure and accelerate public-facing applications."
     },
     {
       "icon": "RiDashboard3Fill",
-      "title": "Dashboards & Portals",
-      "desc": "Centralized dashboards to visualize key metrics and manage resources efficiently."
+      "title": "Unified Operations Dashboards",
+      "desc": "Centralized visualization of mission-critical metrics and cross-platform resource management."
     },
     {
       "icon": "FaWifi",
-      "title": "Internet Bandwidth Tracker",
-      "desc": "Monitor internet usage and bandwidth to optimize connectivity and performance."
+      "title": "Connectivity & Bandwidth Optimization",
+      "desc": "Precision tracking of network utilization to ensure optimal throughput for business-critical operations."
     },
     {
       "icon": "FaKey",
-      "title": "Password Manager",
-      "desc": "Securely manage credentials and access for teams with ease and safety."
+      "title": "Enterprise Credential Management",
+      "desc": "Zero-knowledge architecture for secure password storage and team-based access governance."
     },
     {
       "icon": "FaFilePdf",
-      "title": "PDF Management",
-      "desc": "Organize, edit, and secure your PDF documents efficiently."
+      "title": "Secure Document Processing",
+      "desc": "Centralized tools for the secure modification, organization, and encryption of digital document assets."
     },
     {
       "icon": "FaFolderOpen",
-      "title": "Document Management System",
-      "desc": "Store, track, and manage all your business documents in one place."
+      "title": "Document Governance (DMS)",
+      "desc": "A secure, structured repository for lifecycle management and version control of business documents."
     },
     {
       "icon": "FaComments",
-      "title": "Team Collaboration & Chat",
-      "desc": "Seamless communication and collaboration across teams for faster decision-making."
+      "title": "Unified Team Communications",
+      "desc": "Secure, internal collaboration platforms designed for high-speed decision making and data privacy."
     },
     {
       "icon": "FaTasks",
-      "title": "Project & Task Management",
-      "desc": "Plan, track, and manage projects and tasks effectively to meet deadlines."
+      "title": "Project & Workflow Orchestration",
+      "desc": "Advanced planning and task tracking frameworks to maintain operational velocity and meet deadlines."
     },
     {
       "icon": "FaNoteSticky",
-      "title": "Note-Taking & To-Do Management",
-      "desc": "Capture ideas and manage tasks efficiently for better productivity."
+      "title": "Knowledge Management",
+      "desc": "Capturing institutional knowledge and managing personal productivity in a secure, organized environment."
     },
     {
       "icon": "FaGraduationCap",
-      "title": "Learning Management System",
-      "desc": "Deliver training and track learning progress across your organization."
+      "title": "Capacity Building (LMS)",
+      "desc": "Scalable training delivery and progress tracking to foster internal expertise and compliance."
     },
     {
       "icon": "FaDesktop",
-      "title": "Remote Desktop Tool",
-      "desc": "Access and manage desktops remotely for support and collaboration."
+      "title": "Hardened Remote Access",
+      "desc": "Secure, encrypted remote desktop management for high-performance support and off-site administration."
     },
     {
       "icon": "FaCloud",
-      "title": "Cloud Storage & Team Collaboration",
-      "desc": "Secure cloud storage with integrated team collaboration tools."
+      "title": "Managed Cloud Collaboration",
+      "desc": "Secure, self-hosted cloud storage with integrated tools for real-time document co-authoring."
     },
     {
       "icon": "FaCodeBranch",
-      "title": "Version Control & CI/CD",
-      "desc": "Manage code versions and automate deployments for development efficiency."
+      "title": "DevSecOps & CI/CD Pipelines",
+      "desc": "Automated version control and deployment workflows with integrated security checks for rapid delivery."
     },
     {
       "icon": "FaUsers",
-      "title": "HR Management System",
-      "desc": "Streamline HR processes from recruitment to employee management."
+      "title": "Human Resource Information Systems",
+      "desc": "Digitized HR workflows from recruitment to employee lifecycle management and compliance."
     }
   ]
 }
