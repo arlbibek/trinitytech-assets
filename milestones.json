@@ -8,18 +8,20 @@
     "showOnAbout": true
   },
   {
-    "date": "2026-02-19",
-    "displayDate": "Feb 19-21",
-    "title": "U.S. Startup Weekend Challenge",
-    "description": "3-day intensive startup sprint.",
-    "category": "Event",
-    "showOnAbout": false
-  },
-  {
     "date": "2026-02-14",
     "displayDate": "Feb 14",
     "title": "Capture the Flag (CTF) Event",
     "description": "Organized a cybersecurity CTF event for local students and professionals.",
+    "category": "Event",
+    "galleryImagePrefix": "2026-02-14_ctf",
+    "showOnAbout": true
+  },
+  {
+    "date": "2026-02-19",
+    "displayDate": "Feb 19-21",
+    "title": "U.S. Startup Weekend Challenge",
+    "description": "3-day intensive startup sprint.",
+    "galleryImagePrefix": "2026-02-19_startup_challenge",
     "category": "Event",
     "showOnAbout": true
   },
@@ -28,8 +30,9 @@
     "displayDate": "Feb 25",
     "title": "Cybersecurity Awareness Training",
     "description": "Conducted for 3 different schools.",
+    "galleryImagePrefix": "2026-02-24_cybersecurity_awareness",
     "category": "Community",
-    "showOnAbout": false
+    "showOnAbout": true
   },
   {
     "date": "2026-03-21",
@@ -44,7 +47,7 @@
     "date": "2026-05-09",
     "displayDate": "May 9",
     "title": "[UPCOMING] Live Hacking Session",
-    "description": "Join us for an interactive live hacking session where we demonstrate real-world attack techniques and defenses.",
+    "description": "Join us for an interactive live hacking session where we demonstrate real-world attack techniques.",
     "category": "Event",
     "showOnAbout": true
   }
