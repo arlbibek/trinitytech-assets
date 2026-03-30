@@ -8,45 +8,45 @@
   "items": [
     {
       "id": "01",
-      "icon": "FaSearch",
-      "title": "Security Assessment & Penetration Testing",
-      "desc": "Simulated adversary operations exposing vulnerabilities across web, mobile, API, and network layers before real attackers do.",
-      "tags": ["Red Team", "VAPT", "OWASP"]
+      "icon": "FaUserSecret",
+      "title": "Offensive Security & VAPT",
+      "desc": "Elite-level penetration testing across web, mobile, and thick-client applications. We simulate real-world TTPs to identify critical logic flaws before exploitation.",
+      "tags": ["Red Teaming", "API Security", "VAPT"]
     },
     {
       "id": "02",
-      "icon": "GrShieldSecurity",
-      "title": "Security Operations & Hardening",
-      "desc": "SIEM deployment, endpoint hardening, access control, and incident response frameworks that keep your perimeter solid.",
-      "tags": ["SIEM", "SOC", "IR"]
+      "icon": "MdMonitor",
+      "title": "Detection, Response & Forensics",
+      "desc": "24/7 SOC monitoring paired with legal-grade digital forensics. We hunt, neutralize threats in real-time, and perform deep-dive post-breach investigations.",
+      "tags": ["MDR", "DFIR", "Threat Hunting"]
     },
     {
       "id": "03",
-      "icon": "MdSecurity",
-      "title": "GRC & ISO 27001 Compliance",
-      "desc": "End-to-end governance, risk, and compliance implementation including audit readiness, policy development, and regulatory alignment.",
-      "tags": ["ISO 27001", "NRB", "GDPR"]
+      "icon": "FaCloudShield",
+      "title": "Cloud & Infrastructure Hardening",
+      "desc": "Architecting Zero Trust environments and securing hybrid-cloud workloads. We harden your perimeter, internal switching, and virtualized assets.",
+      "tags": ["Cloud Security", "Zero Trust", "Data Center"]
     },
     {
       "id": "04",
-      "icon": "FaBrain",
-      "title": "Awareness & Skill Development",
-      "desc": "Phishing simulations, tabletop exercises, and security culture programs that turn your people into a human firewall.",
-      "tags": ["Phishing Sim", "Training", "Tabletop"]
+      "icon": "FaCertificate",
+      "title": "Certify: ISO & Industry Standards",
+      "desc": "Leading you through the rigorous journey to ISO 27001 and PCI DSS certification. Our experts act as your internal audit powerhouse for NRB and SWIFT compliance.",
+      "tags": ["ISO 27001", "NRB Compliance", "Gap Analysis", "Audit Readiness"]
     },
     {
       "id": "05",
-      "icon": "FaNetworkWired",
-      "title": "Network & Infrastructure Security",
-      "desc": "Secure network design, Zero Trust architecture, and hardened infrastructure built for resilience and scale.",
-      "tags": ["Zero Trust", "Firewall", "VPN"]
+      "icon": "FaChessKnight",
+      "title": "vISO: Strategic Leadership",
+      "desc": "Executive-level security governance without the overhead. We provide the roadmap, budget guidance, and board-level reporting you need to lead securely.",
+      "tags": ["Virtual ISO", "Governance", "Strategy"]
     },
     {
       "id": "06",
-      "icon": "FaShieldAlt",
-      "title": "Digital Forensics & Incident Response",
-      "desc": "Rapid containment, root-cause investigation, and evidence preservation for breaches and security incidents.",
-      "tags": ["DFIR", "Forensics", "Eradication"]
+      "icon": "FaArrowCircleUp",
+      "title": "Uplift: Security Culture",
+      "desc": "Beyond simple training. We build a 'human firewall' through phishing simulations and advanced technical capacity building for your IT teams.",
+      "tags": ["Security Awareness", "Capacity Building", "Phishing Sim"]
     }
   ]
 }
