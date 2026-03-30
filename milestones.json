@@ -14,7 +14,7 @@
     "description": "Organized a cybersecurity CTF event for local students and professionals.",
     "category": "Event",
     "galleryImagePrefix": "2026-02-14_ctf",
-    "showOnAbout": true
+    "showOnAbout": false
   },
   {
     "date": "2026-02-19",
@@ -32,7 +32,7 @@
     "description": "Conducted for 3 different schools.",
     "galleryImagePrefix": "2026-02-24_cybersecurity_awareness",
     "category": "Community",
-    "showOnAbout": true
+    "showOnAbout": false
   },
   {
     "date": "2026-03-21",
